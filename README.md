@@ -3,7 +3,7 @@
 <h4 align="center">neat <code>python</code> repositories</h4>
 
 <div align="center">
-   <strong>on Github</strong>
+   <strong>on github</strong>
 </div>
 
 <br />
