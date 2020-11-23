@@ -1,5 +1,4 @@
 <h1 align="center">PYTHON</h1>
-<br />
 
 <h3 align="center">Neat <code>python</code> Repositories</h3>
 
