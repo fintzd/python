@@ -1,7 +1,12 @@
 <h1 align="center">PYTHON</h1>
 <br />
 
-<h3 align="center">Neat Python Repositories on Github</h3>
+<h3 align="center">Neat <code>python</code> Repositories</h3>
+
+<div align="center">
+   <strong>on Github</strong>
+</div>
+
 <br />
 
   - [HUG](https://github.com/hugapi/hug/blob/develop/README.md) - Hug aims to make developing Python-driven APIs as simple as possible.
