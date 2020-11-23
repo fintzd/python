@@ -1,6 +1,6 @@
 <h1 align="center">PYTHON</h1>
 
-<h5 align="center">neat <code>python</code> repositories</h5>
+<h4 align="center">neat <code>python</code> repositories</h4>
 
 <div align="center">
    <strong>on Github</strong>
