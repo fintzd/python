@@ -1,7 +1,9 @@
-# PYTHON
-Neat Github Repositories - About Python
+<h1 align="center">PYTHON</h1>
 
 --------------
+
+<h3 align="center">Neat Python Repositories on Github</h3>
+<br />
 
   - [HUG](https://github.com/hugapi/hug/blob/develop/README.md) - Hug aims to make developing Python-driven APIs as simple as possible.
   - [YOU-GET](https://github.com/soimort/you-get#you-get) - A tiny command-line utility to download media contents (videos, audios, images) from the Web.
