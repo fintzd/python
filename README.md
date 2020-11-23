@@ -1,6 +1,6 @@
 <h1 align="center">PYTHON</h1>
-
---------------
+<br />
+<br />
 
 <h3 align="center">Neat Python Repositories on Github</h3>
 <br />
