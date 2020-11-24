@@ -23,6 +23,7 @@
   - [Dash](https://github.com/plotly/dash#dash) - A Python framework for building analytical web applications — no JavaScrip needed.
   - [Django](https://github.com/django/django#django) - Web framework that encourages rapid development and clean design.
   - [Scikit-learn](https://github.com/scikit-learn/scikit-learn#installation) - A module for machine learning built on top of SciPy.
+  - [Sherlock](https://github.com/sherlock-project/sherlock/blob/master/README.md) - A tool to find the social media accounts of a user across social networks.
 
 
 
