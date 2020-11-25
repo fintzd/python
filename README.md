@@ -25,6 +25,7 @@
   - [Scikit-learn](https://github.com/scikit-learn/scikit-learn#installation) - A module for machine learning built on top of SciPy.
   - [Sherlock](https://github.com/sherlock-project/sherlock/blob/master/README.md) - A tool to find the social media accounts of a user across social networks.
   - [AutoScraper](https://github.com/alirezamika/autoscraper#autoscraper-a-smart-automatic-fast-and-lightweight-web-scraper-for-python) - Automated web scraper, that learns rules to automate and simplify content gathering.
+  - [Black](https://github.com/psf/black#the-uncompromising-code-formatter) - The Uncompromising Code Formatter. Make your code readable.
 
 
 
