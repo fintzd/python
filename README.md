@@ -12,6 +12,7 @@
   - [YOU-GET](https://github.com/soimort/you-get#you-get) - A tiny command-line utility to download media contents (videos, audios, images) from the Web.
   - [snallygaster](https://github.com/hannob/snallygaster#snallygaster) - Finds file leaks and other security problems on HTTP servers.
   - [DeepFaceLab](https://github.com/iperov/DeepFaceLab#deepfacelab) - A tool to create deepfake images and videos, such as deaging and swapping faces.
+  - [StyleGAN2](https://github.com/NVlabs/stylegan2#stylegan2--official-tensorflow-implementation) - Generating and editing images using AI.
   - [Photon](https://github.com/s0md3v/Photon#--------photon--) - Web crawler built in Python, follows the open-source intelligence framework guidelines.
   - [OpenAI Gym](https://github.com/openai/gym#openai-gym) - A toolkit for developing and comparing reinforcement learning algorithms.
   - [Magenta](https://github.com/magenta/magenta#getting-started) - Explore machine learning in the process of creating art and music.
