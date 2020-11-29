@@ -28,6 +28,7 @@
   - [AutoScraper](https://github.com/alirezamika/autoscraper#autoscraper-a-smart-automatic-fast-and-lightweight-web-scraper-for-python) - Automated web scraper, that learns rules to automate and simplify content gathering.
   - [Black](https://github.com/psf/black#the-uncompromising-code-formatter) - The Uncompromising Code Formatter. Make your code readable.
   - [Pillow](https://github.com/python-pillow/Pillow) - Easy image processing capabilities added to your Python interpreter.
+  - [ssh-audit](https://github.com/jtesta/ssh-audit#ssh-audit) - Audit the security of your SSH connection, and get recommendations to make it safer.
 
 
 
