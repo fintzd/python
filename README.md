@@ -29,6 +29,7 @@
   - [Black](https://github.com/psf/black#the-uncompromising-code-formatter) - The Uncompromising Code Formatter. Make your code readable.
   - [Pillow](https://github.com/python-pillow/Pillow) - Easy image processing capabilities added to your Python interpreter.
   - [ssh-audit](https://github.com/jtesta/ssh-audit#ssh-audit) - Audit the security of your SSH connection, and get recommendations to make it safer.
+  - [line_profiler](https://github.com/rkern/line_profiler#line_profiler-and-kernprof) - Make sense of where your code takes most time running, to optimize it efficiently.
 
 
 
