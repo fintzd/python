@@ -4,7 +4,7 @@
 
 
 <div align="center">
-   <strong>to check out</strong>
+   <em>to check out</em>
 </div>
 
 <br />
@@ -12,3 +12,12 @@
 
 
   - [PyQt5](https://riverbankcomputing.com/software/pyqt/intro) - <em>Developed By:</em> Riverbank Computing
+  - [Tkinter](https://wiki.python.org/moin/TkInter) - <em>Developed By:</em> Fredrik Lundh
+  - [Kivy](https://kivy.org/#home) - <em>Developed By:</em> Kivy Organization
+  - [wxPython](https://www.wxpython.org/) - <em>Developed By:</em> Robin Dunn
+  - [Libavg](https://www.libavg.de/site/) - <em>Developed By:</em> Alfred Bigler
+  - [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/) - <em>Developed By:</em> Mike B
+  - [PyForms](https://pyforms.readthedocs.io/en/v4/) - <em>Developed By:</em> Ricardo Ribeiro
+  - [Wax](https://wiki.python.org/moin/Wax) - <em>Developed By:</em> Hans Nowak
+  - [PySide2](https://www.qt.io/qt-for-python) - <em>Developed By:</em> The Qt Company
+  - [PyGUI](https://www.cosc.canterbury.ac.nz/greg.ewing/python_gui/) - <em>Developed By:</em> Gregory Ewing
