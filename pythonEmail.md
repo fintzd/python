@@ -2,9 +2,6 @@
 
 <h4 align="center">Handle Email With <code>python</code></h4>
 
-<div align="center">
-   <strong>repositories on github</strong>
-</div>
 
 <br />
 <br />
