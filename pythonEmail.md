@@ -1,10 +1,9 @@
-<h1 align="center">PYTHON GUIs</h1>
+<h1 align="center">PYTHON EMAIL HANDLING</h1>
 
-<h4 align="center">10 <code>python</code> GUIs</h4>
-
+<h4 align="center">10 <code>python</code> Handle Email With Python</h4>
 
 <div align="center">
-   <em>Python Graphical User Interfaces</em>
+   <strong>on github</strong>
 </div>
 
 <br />
