@@ -7,7 +7,8 @@
 </div>
 
 
-<br /><br />
+<br />
+<br />
 
 MishMash
 ------------
@@ -37,7 +38,8 @@ MishMash
   - [sumy](https://github.com/miso-belica/sumy#automatic-text-summarizer) - Simple library and command line utility to summarize HTML pages or plain text.
 
 
-<br /><br />
+<br />
+<br />
 
 Django Google Sheet
 ------------
