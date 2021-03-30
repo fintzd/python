@@ -1,6 +1,6 @@
 <h1 align="center">PYTHON EMAIL HANDLING</h1>
 
-<h4 align="center">10 <code>python</code> Handle Email With Python</h4>
+<h4 align="center"><code>python</code> Handle Email With Python</h4>
 
 <div align="center">
    <strong>on github</strong>
