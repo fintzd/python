@@ -8,6 +8,9 @@
 
 <br />
 
+MishMash
+------------
+
   - [HUG](https://github.com/hugapi/hug/blob/develop/README.md) - Hug aims to make developing Python-driven APIs as simple as possible.
   - [YOU-GET](https://github.com/soimort/you-get#you-get) - A tiny command-line utility to download media contents (videos, audios, images) from the Web.
   - [snallygaster](https://github.com/hannob/snallygaster#snallygaster) - Finds file leaks and other security problems on HTTP servers.
@@ -36,3 +39,12 @@
 
 <br /><br />
 Django Projects - [Google Sheets file](https://docs.google.com/spreadsheets/d/1D1MkGutSTkcIC7FDFZ-zYiJQ88FhAvFFZYR-VQCgQpY/edit#gid=0)
+
+
+
+Email Handling
+------------
+
+<br />
+
+  - [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox#mail-in-a-box) - Mail-in-a-Box helps individuals take back control of their email.
