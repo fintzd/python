@@ -6,7 +6,8 @@
    <strong>on github</strong>
 </div>
 
-<br />
+
+<br /><br />
 
 MishMash
 ------------
@@ -36,15 +37,14 @@ MishMash
   - [sumy](https://github.com/miso-belica/sumy#automatic-text-summarizer) - Simple library and command line utility to summarize HTML pages or plain text.
 
 
-
 <br /><br />
+
 Django Projects - [Google Sheets file](https://docs.google.com/spreadsheets/d/1D1MkGutSTkcIC7FDFZ-zYiJQ88FhAvFFZYR-VQCgQpY/edit#gid=0)
 
 
+<br /><br />
 
 Email Handling
 ------------
-
-<br />
 
   - [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox#mail-in-a-box) - Mail-in-a-Box helps individuals take back control of their email.
