@@ -34,8 +34,19 @@ MishMash
   - [Black](https://github.com/psf/black#the-uncompromising-code-formatter) - The Uncompromising Code Formatter. Make your code readable.
   - [Pillow](https://github.com/python-pillow/Pillow) - Easy image processing capabilities added to your Python interpreter.
   - [ssh-audit](https://github.com/jtesta/ssh-audit#ssh-audit) - Audit the security of your SSH connection, and get recommendations to make it safer.
-  - [line_profiler](https://github.com/rkern/line_profiler#line_profiler-and-kernprof) - Make sense of where your code takes most time running, to optimize it efficiently.
+  - [line_profiler](https://github.com/pyutils/line_profiler#line_profiler-and-kernprof) - A module for doing line-by-line profiling of functions.
   - [sumy](https://github.com/miso-belica/sumy#automatic-text-summarizer) - Simple library and command line utility to summarize HTML pages or plain text.
+  - [mintotp](https://github.com/susam/mintotp#mintotp) - A minimal TOTP generator written in Python.
+  - [fail2ban](https://github.com/fail2ban/fail2ban#fail2ban-ban-hosts-that-cause-multiple-authentication-errors) - A security too for server authentication, that bans hosts that cause multiple authentication errors.
+  - [autoscraper](https://github.com/alirezamika/autoscraper#autoscraper-a-smart-automatic-fast-and-lightweight-web-scraper-for-python) - A web scraper to automate web scraping and make the process easy.
+  - [river](https://github.com/online-ml/river) - A relatively new library for online machine learning.
+  - [tweepy](https://github.com/tweepy/tweepy#tweepy-twitter-for-python) - Basically, as they say it themselves, tweepy is _Twitter for Python_.
+  - [py3-pinterest](https://github.com/bstoilov/py3-pinterest#py3-pinterest) - An unofficial Pinterest API, that can do all Pinterest tasks.
+  - [googler](https://github.com/jarun/googler#) - A tool to Google from the command-line (web, news, videos and site search).
+  - [splash](https://github.com/scrapinghub/splash#splash---a-javascript-rendering-service) - A javascript rendering service with an HTTP API written in Python.
+  - [stylegan2](https://github.com/NVlabs/stylegan2#stylegan2--official-tensorflow-implementation) - TensorFlow Implementation: analyzing & improving the Image Quality of StyleGAN.
+  - [TapoP100](https://github.com/fishbigger/TapoP100#tapo-p100) - A module for controlling the TP-Link Tapo P100 Plugs.
+  - [scrapy](https://github.com/scrapy/scrapy#scrapy) - High-level web crawling & scraping framework, to crawl websites and extract structured data.
 
 
 <br />
