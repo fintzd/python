@@ -14,7 +14,7 @@ MishMash
 ------------
 
   - [HUG](https://github.com/hugapi/hug/blob/develop/README.md) - Hug aims to make developing Python-driven APIs as simple as possible.
-  - [YOU-GET](https://github.com/soimort/you-get#you-get) - A tiny command-line utility to download media contents (videos, audios, images) from the Web.
+  - [You-Get](https://github.com/soimort/you-get#you-get) - A tiny command-line utility to download media contents (videos, audios, images) from the Web.
   - [snallygaster](https://github.com/hannob/snallygaster#snallygaster) - Finds file leaks and other security problems on HTTP servers.
   - [DeepFaceLab](https://github.com/iperov/DeepFaceLab#deepfacelab) - A tool to create deepfake images and videos, such as deaging and swapping faces.
   - [StyleGAN2](https://github.com/NVlabs/stylegan2#stylegan2--official-tensorflow-implementation) - Generating and editing images using AI.
