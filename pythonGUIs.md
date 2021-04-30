@@ -12,7 +12,6 @@
 
 
   - [PyQt5](https://riverbankcomputing.com/software/pyqt/intro) - <em>Developed By:</em> Riverbank Computing
-  - [Tkinter](https://wiki.python.org/moin/TkInter) - <em>Developed By:</em> Fredrik Lundh
   - [Kivy](https://kivy.org/#home) - <em>Developed By:</em> Kivy Organization
   - [wxPython](https://www.wxpython.org/) - <em>Developed By:</em> Robin Dunn
   - [Libavg](https://www.libavg.de/site/) - <em>Developed By:</em> Alfred Bigler
