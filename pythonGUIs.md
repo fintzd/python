@@ -1,6 +1,6 @@
 <h1 align="center">PYTHON GUIs</h1>
 
-<h4 align="center">10 <code>python</code> GUIs</h4>
+<h4 align="center">9 <code>python</code> GUIs</h4>
 
 
 <div align="center">
