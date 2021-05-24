@@ -48,6 +48,7 @@ MishMash
   - [TapoP100](https://github.com/fishbigger/TapoP100#tapo-p100) - A module for controlling the TP-Link Tapo P100 Plugs.
   - [scrapy](https://github.com/scrapy/scrapy#scrapy) - High-level web crawling & scraping framework, to crawl websites and extract structured data.
   - [newspaper](https://github.com/codelucas/newspaper#newspaper3k-article-scraping--curation) - A painfully simple extractor which can be used for news, full-text, articles, and metadata.
+  - [TheAlgorithms](https://github.com/TheAlgorithms/Python#the-algorithms---python) - Algorithms implemented in Python.
 
 
 <br />
